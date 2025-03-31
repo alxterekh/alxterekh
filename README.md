@@ -1,4 +1,3 @@
-# axlterekh
 I'am an experienced software development engineer 🖥
 
 ### Languages
